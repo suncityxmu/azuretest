@@ -20,5 +20,5 @@ steps:
     location: 'Central US'
     templateLocation: 'Linked artifact'
     csmFile: 'CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName mytest001 -linkedTemplateUri https://https://raw.githubusercontent.com/suncityxmu/azuretest/master/CreateWebApp/linkedStorageAccount.json?token=AEMHHUUKXH4ICTEWLPUIVAS67246Q'
+    overrideParameters: '-projectName mytest001 -linkedTemplateUri https://raw.githubusercontent.com/suncityxmu/azuretest/master/CreateWebApp/linkedStorageAccount.json?token=AEMHHUUKXH4ICTEWLPUIVAS67246Q'
     deploymentMode: 'Incremental'
