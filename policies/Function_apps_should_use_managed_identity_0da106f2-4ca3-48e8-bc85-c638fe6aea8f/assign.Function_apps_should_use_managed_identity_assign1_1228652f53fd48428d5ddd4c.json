@@ -1,0 +1,25 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "Function apps should use managed identity_assign1",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0da106f2-4ca3-48e8-bc85-c638fe6aea8f",
+  "scope": "/subscriptions/1ccb1bf8-f93f-42dc-886b-acdbc6f972eb",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "YANGCHENG SHEN",
+   "parameterScopes": {},
+   "createdBy": "6ed8e765-b0b2-4e3f-831d-8ff1116cee3c",
+   "createdOn": "2022-09-28T12:45:48.299783Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/1ccb1bf8-f93f-42dc-886b-acdbc6f972eb/providers/Microsoft.Authorization/policyAssignments/1228652f53fd48428d5ddd4c",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "1228652f53fd48428d5ddd4c"
+}
