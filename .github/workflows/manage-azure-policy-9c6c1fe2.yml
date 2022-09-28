@@ -34,5 +34,4 @@ jobs:
           policies/createondatetag_63ebca72-7e3f-4e6b-a08f-1e16ee0421ed/**
           policies/enforcetlsstorage_a9bf50da-2577-47b0-a50a-9c1db8d647f5/**
           policies/enforcehttpsstorage_a9bf50da-2577-47b0-a50a-9c1db8d64818/**
-        assignments: |
-          assign.*_testRG_*.json
+
