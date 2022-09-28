@@ -35,4 +35,4 @@ jobs:
           policies/enforcetlsstorage_a9bf50da-2577-47b0-a50a-9c1db8d647f5/**
           policies/enforcehttpsstorage_a9bf50da-2577-47b0-a50a-9c1db8d64818/**
         assignments: |
-          assign/assign_test1_name.json
+          assign/assign.test.json
